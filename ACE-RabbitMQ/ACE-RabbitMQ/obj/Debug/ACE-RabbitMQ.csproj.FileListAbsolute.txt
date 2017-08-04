@@ -1,0 +1,32 @@
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Net.Http.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\VirusTotal.NET.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.exe
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.pdb
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.exe
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\ACE-RabbitMQ.pdb
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Net.Http.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\VirusTotal.NET.dll
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+C:\Users\tester\Documents\GitHub\ACE-RabbitMQ\ACE-RabbitMQ\obj\Debug\ACE-RabbitMQ.csprojResolveAssemblyReference.cache
